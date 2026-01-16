@@ -1,0 +1,5 @@
+base_path: C:\Users\file
+main_file: 25999 V2.xlsm
+project_folder: Project files
+output_file: Master_ERP_Output.xlsx
+log_file: erp_merge.log
