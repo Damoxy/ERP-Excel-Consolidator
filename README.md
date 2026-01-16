@@ -95,6 +95,3 @@ Before processing begins, the script performs a "pre-flight" check:
 > [!IMPORTANT]
 > If any validation step fails, the script will terminate immediately and log the specific reason to prevent corrupted data output.
 
----
-
-Would you like me to generate the actual **Python script (`erp_merge.py`)** logic that handles the `xlwings` interaction and the merging process?
